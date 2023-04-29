@@ -1,0 +1,4 @@
+#Thu Apr 06 10:41:46 IST 2023
+base.0=/Users/nexg/flutter_projects/quadrant_chart-master/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
