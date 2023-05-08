@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/nexg/flutter_projects/quadrant_chart-master/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/nexg/flutter_projects/quadrant_chart-master/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/nexg/flutter_projects/sectors_using_custompaint/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/nexg/flutter_projects/sectors_using_custompaint/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <!--
 16     io.flutter.app.FlutterApplication is an android.app.Application that
 17         calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -72,17 +72,17 @@
 69            android:value="2" />
 70
 71        <uses-library
-71-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/e48dce003298851ae0a0a582ed97c377/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+71-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/5f0937ef37b6f867071ff89abaf853a3/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 72            android:name="androidx.window.extensions"
-72-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/e48dce003298851ae0a0a582ed97c377/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+72-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/5f0937ef37b6f867071ff89abaf853a3/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
 73            android:required="false" />
-73-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/e48dce003298851ae0a0a582ed97c377/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+73-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/5f0937ef37b6f867071ff89abaf853a3/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
 74        <uses-library
-74-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/e48dce003298851ae0a0a582ed97c377/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+74-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/5f0937ef37b6f867071ff89abaf853a3/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
 75            android:name="androidx.window.sidecar"
-75-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/e48dce003298851ae0a0a582ed97c377/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+75-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/5f0937ef37b6f867071ff89abaf853a3/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
 76            android:required="false" />
-76-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/e48dce003298851ae0a0a582ed97c377/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+76-->[androidx.window:window:1.0.0-beta04] /Users/nexg/.gradle/caches/transforms-2/files-2.1/5f0937ef37b6f867071ff89abaf853a3/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
 77    </application>
 78
 79</manifest>

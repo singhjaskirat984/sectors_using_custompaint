@@ -1,25 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nexg/flutter_projects/quadrant_chart-master/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/nexg/flutter_projects/sectors_using_custompaint/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/nexg/.gradle/caches/transforms-2/files-2.1/e48dce003298851ae0a0a582ed97c377/jetified-window-1.0.0-beta04/res/values/values.xml",
+                    "source": "/Users/nexg/flutter_projects/sectors_using_custompaint/android/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "2,7,8,9,10,11,19,23,34,51",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,234,294,346,391,451,869,1066,1790,2904",
-                        "endLines": "6,7,8,9,10,18,22,33,50,58",
-                        "endColumns": "11,59,51,44,59,24,24,24,24,24",
-                        "endOffsets": "229,289,341,386,446,864,1061,1785,2899,3292"
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "134,777",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "426,937"
                     },
                     "to": {
-                        "startLines": "3,8,9,10,72,114,122,264,275,292",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "115,294,354,406,4332,6821,7239,15673,16397,17511",
-                        "endLines": "7,8,9,10,72,121,125,274,291,299",
-                        "endColumns": "11,59,51,44,59,24,24,24,24,24",
-                        "endOffsets": "289,349,401,446,4387,7234,7431,16392,17506,17899"
+                        "startLines": "93,98",
+                        "startColumns": "4,4",
+                        "startOffsets": "5462,5759",
+                        "endLines": "97,100",
+                        "endColumns": "12,12",
+                        "endOffsets": "5754,5919"
                     }
                 },
                 {
@@ -42,22 +42,22 @@
                     }
                 },
                 {
-                    "source": "/Users/nexg/flutter_projects/quadrant_chart-master/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/nexg/.gradle/caches/transforms-2/files-2.1/5f0937ef37b6f867071ff89abaf853a3/jetified-window-1.0.0-beta04/res/values/values.xml",
                     "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "134,777",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "426,937"
+                        "startLines": "2,7,8,9,10,11,19,23,34,51",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,234,294,346,391,451,869,1066,1790,2904",
+                        "endLines": "6,7,8,9,10,18,22,33,50,58",
+                        "endColumns": "11,59,51,44,59,24,24,24,24,24",
+                        "endOffsets": "229,289,341,386,446,864,1061,1785,2899,3292"
                     },
                     "to": {
-                        "startLines": "93,98",
-                        "startColumns": "4,4",
-                        "startOffsets": "5462,5759",
-                        "endLines": "97,100",
-                        "endColumns": "12,12",
-                        "endOffsets": "5754,5919"
+                        "startLines": "3,8,9,10,72,114,122,264,275,292",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "115,294,354,406,4332,6821,7239,15673,16397,17511",
+                        "endLines": "7,8,9,10,72,121,125,274,291,299",
+                        "endColumns": "11,59,51,44,59,24,24,24,24,24",
+                        "endOffsets": "289,349,401,446,4387,7234,7431,16392,17506,17899"
                     }
                 }
             ]
